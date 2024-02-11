@@ -1,0 +1,3 @@
+An example of strategic design pattern is text editor application that needs to support multiple text formatting options, such as bold, 
+italic and underline. we can apply the strategy pattern to encapulate each formatting option as a separate strategy and allow the user 
+to switch between them dynamically
